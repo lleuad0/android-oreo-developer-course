@@ -1,2 +1,3 @@
-# android-oreo-developer-course
-A repository storing the projects made for "The Complete Android Oreo Developer Course" on Udemy.
+# Android Oreo Developer Course
+## Connect Three
+A simple game with a goal of placing three same colored counters together vertically, horizontally or diagonally.
