@@ -1,2 +1,3 @@
-# android-oreo-developer-course
-A repository storing the projects made for "The Complete Android Oreo Developer Course" on Udemy.
+# Android Oreo Developer Course
+## JSON Practice
+An app that stores a person's name and position in JSON format. The resulting JSON object can be shown as a toast message.
