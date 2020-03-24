@@ -1,2 +1,3 @@
-# android-oreo-developer-course
-A repository storing the projects made for "The Complete Android Oreo Developer Course" on Udemy.
+# Android Oreo Developer Course
+## What's The Weather Like
+A weather observing app that downloads weather data for any selected city and shows it to the user.
