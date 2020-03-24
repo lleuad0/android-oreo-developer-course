@@ -1,2 +1,3 @@
-# android-oreo-developer-course
-A repository storing the projects made for "The Complete Android Oreo Developer Course" on Udemy.
+# Android Oreo Developer Course
+## Guess The Celebrity
+A quiz app that downloads a celebrity picture and suggests four variants for users to guess who that is.
