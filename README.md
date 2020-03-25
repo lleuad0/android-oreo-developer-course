@@ -1,2 +1,3 @@
-# android-oreo-developer-course
-A repository storing the projects made for "The Complete Android Oreo Developer Course" on Udemy.
+# Android Oreo Developer Course
+## Notes App
+An app that allows creating, editing and deleting text notes. The notes are stored in a database.
