@@ -1,2 +1,3 @@
-# android-oreo-developer-course
-A repository storing the projects made for "The Complete Android Oreo Developer Course" on Udemy.
+# Android Oreo Developer Course
+## English Or Spanish
+An app that allows the user to choose a language and stores the selected option. Quick practice of using menus and SharedPreferences.
