@@ -1,2 +1,3 @@
-# android-oreo-developer-course
-A repository storing the projects made for "The Complete Android Oreo Developer Course" on Udemy.
+# Android Oreo Developer Course
+## Hiker's Watch
+An app that shows the user's coordinates, GPS accuracy and the closest address found.
